@@ -8,9 +8,12 @@
 
 ## <p align="center">A tecnologia revolucionou o mundo, vamos juntos participar desta revolução.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=igorgp06&theme=shades-of-purple&hide_border=true&border_radius=9&locale=pt_BR&mode=weekly&card_width=550&card_height=220" alt="GitHub Streak" /></a>
- </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=igorgp&locale=pt-br&mode=weekly&theme=shades-of-purple&hide_border=true&border_radius=9&date_format=j%20M%5B%20Y%5D&order=3" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorgp&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true&order=2&custom_title=Minhas%20Linguagens" height="200" alt="languages graph"  />
+</div>
+
+###
  
 ## Minhas habilidades:
 
@@ -43,14 +46,17 @@
 
 ## Redes sociais:
 
-<div> 
-<a href = "https://www.instagram.com/igorgp.06/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "contateme.igorgp@gmail.com"> <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=black&color=black"></a>
-<a href = "https://www.tiktok.com/@realloirin"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-<a href = "https://x.com/igorgp06"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
- 
- </div>
+<div align="left">
+  <a href="https://www.instagram.com/igorgp.06/" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"/></a>
+  <a href="https://discord.com/channels/@me" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"></a>
+  <a href="https://www.youtube.com/channel/UCka20SjP7fwABfHGbt_xwjg" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"/></a>
+  <a href="https://twitter.com/igorgp06" target="_blank"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
+  <a href="https://www.paypal.com/myaccount/summary" target="_blank"> <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
+</div>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=25&reversal=false&textBg=false&fontSize=35&fontAlignY=40&section=footer" max-width="1200px" width="1200px" align="center"/>
+
+
         
