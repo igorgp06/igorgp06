@@ -1,6 +1,6 @@
 ## Quem eu sou??
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12,25&text=Olá,%20eu%20me%20chamo%20Igor&reversal=false&textBg=false&fontSize=30&fontAlignY=33" max-width="1200px" width="1200px" align="center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=25&text=Olá,%20eu%20me%20chamo%20Igor&fontColor=e6e600%20&reversal=false&textBg=false&fontSize=30&fontAlignY=33&animation=fadeIn" max-width="1200px" width="1200px" align="center"/>
 
 
 ##### Tenho 18 anos e estou terminando o ensino médio. Atualmente estudando as linguagens Python, HTML5 e CSS3. 
@@ -9,7 +9,7 @@
 ## <p align="center">A tecnologia revolucionou o mundo, vamos juntos participar desta revolução.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=igorgp06&theme=python-dark&hide_border=true&border_radius=9&locale=pt_BR&mode=weekly&card_width=550&card_height=220" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=igorgp06&theme=shades-of-purple&hide_border=true&border_radius=9&locale=pt_BR&mode=weekly&card_width=550&card_height=220" alt="GitHub Streak" /></a>
  </div>
  
 ## Minhas habilidades:
@@ -23,13 +23,13 @@
 
 #### Pricipal linguagem:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Atualmente estudando:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
@@ -41,13 +41,16 @@
 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
-## Contato e redes sociais:
+## Redes sociais:
 
 <div> 
-<a href = "https://www.instagram.com/igorgp.06/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "contateme.igorgp@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href = "https://www.instagram.com/igorgp.06/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "contateme.igorgp@gmail.com"> <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto&labelColor=black&color=black"></a>
+<a href = "https://www.tiktok.com/@realloirin"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+<a href = "https://x.com/igorgp06"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+ 
  </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=12,25&reversal=false&textBg=false&fontSize=35&fontAlignY=40&section=footer" max-width="1200px" width="1200px" align="center"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=25&reversal=false&textBg=false&fontSize=35&fontAlignY=40&section=footer" max-width="1200px" width="1200px" align="center"/>
         
