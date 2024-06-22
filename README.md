@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=25&text=Olá,%20eu%20me%20chamo%20Igor&fontColor=e6e600%20&reversal=false&textBg=false&fontSize=30&fontAlignY=33&animation=fadeIn" max-width="1200px" width="1200px" align="center"/>
 
 
-##### Tenho 18 anos e estou terminando o ensino médio. Atualmente estudando as linguagens Python, HTML5, CSS3, JavaScript e PHP. 
+##### Tenho 18 anos e estou terminando o ensino médio, estou a 4 meses trabalhando na área de backend. Atualmente estudando as linguagens Python, HTML5, CSS3, JavaScript e PHP. 
 ##### Estou a procura de novas oprtunidades, seja um trabalho ou aprendizado, quero expandir meus horizontes e seguir meu sonho de me tornar um grande programador.
 
 ## <p align="center">A tecnologia revolucionou o mundo, vamos juntos participar desta revolução.</p>&nbsp;
