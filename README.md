@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=25&text=Olá,%20eu%20me%20chamo%20Igor&fontColor=e6e600%20&reversal=false&textBg=false&fontSize=30&fontAlignY=33&animation=fadeIn" max-width="1200px" width="1200px" align="center"/>
 
 
-##### Tenho 18 anos e estou terminando o ensino médio. Atualmente estudando as linguagens Python, HTML5 e CSS3. 
+##### Tenho 18 anos e estou terminando o ensino médio. Atualmente estudando as linguagens Python, HTML5, CSS3, JavaScript e PHP. 
 ##### Estou a procura de novas oprtunidades, seja um trabalho ou aprendizado, quero expandir meus horizontes e seguir meu sonho de me tornar um grande programador.
 
 ## <p align="center">A tecnologia revolucionou o mundo, vamos juntos participar desta revolução.</p>&nbsp;
@@ -35,10 +35,14 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+
 
 #### Pricipal executor de códigos:
 
 ![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 #### Principais sistemas operacionais:
 
@@ -51,7 +55,6 @@
   <a href="https://discord.com/channels/@me" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"></a>
   <a href="https://www.youtube.com/channel/UCka20SjP7fwABfHGbt_xwjg" target="_blank"> <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"/></a>
   <a href="https://twitter.com/igorgp06" target="_blank"> <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /></a>
-  <a href="https://www.paypal.com/myaccount/summary" target="_blank"> <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="paypal logo"  />
 </div>
 
 
