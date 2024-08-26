@@ -1,12 +1,9 @@
-## Quem eu sou??
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=25&text=Olá,%20eu%20me%20chamo%20Igor&fontColor=e6e600%20&reversal=false&textBg=false&fontSize=30&fontAlignY=33&animation=fadeIn" max-width="1200px" width="1200px" align="center"/>
 
+##### Tenho 18 anos e estou terminando o ensino médio. Estou a um(1) ano trabalhando como desenvolvedor FullStack.
+##### Estou a procura de novas oprtunidades, seja um trabalho ou aprendizado, quero expandir meus horizontes e adquirir mais conhecimento.
 
-##### Tenho 18 anos e estou terminando o ensino médio, estou a 4 meses trabalhando na área de backend. Atualmente estudando as linguagens Python, HTML5, CSS3, JavaScript e PHP. 
-##### Estou a procura de novas oprtunidades, seja um trabalho ou aprendizado, quero expandir meus horizontes e seguir meu sonho de me tornar um grande programador.
-
-## <p align="center">A tecnologia revolucionou o mundo, vamos juntos participar desta revolução.</p>&nbsp;
+## <p align="center">print("Hello Word!")</p>&nbsp;
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=igorgp06&locale=pt-br&mode=weekly&theme=shades-of-purple&hide_border=true&border_radius=9&date_format=j%20M%5B%20Y%5D&order=3" height="125" alt="GitHub Streak"  />
@@ -14,8 +11,8 @@
 </div>
 
 ###
- 
-## Minhas habilidades:
+
+## Sobre minha pessoa:
 
 ##### - Tenho muita facilidade em aprender, estou constantemente atualizando meus conhecimentos para sempre me manter dentro das atuais tendências.
 ##### - Facilidade em comunicação, ou seja, consigo falar com todos sem dificulade ou timidez, tenho muita facilidade de trabalhar tanto em grupos ou sozinho.
@@ -24,27 +21,22 @@
 
 ## Informações importantes:
 
-#### Pricipal linguagem:
+#### Skills:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Atualmente estudando:
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+#### Editores de códigos:
 
-#### Pricipais executores de códigos:
-
-![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
-#### Principal sistema operacional:
+#### Sistema operacional:
 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
