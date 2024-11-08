@@ -3,7 +3,7 @@
 <h1 align="center">A mais de 1 ano trabalhando como Desenvolvedor Web FullStack. print("Hello Word!") </h1>&nbsp;
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=igorgp06&theme=shades-of-purple&hide_border=true&border_radius=9&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=igorgp06&theme=shades-of-purple&hide_border=true&border_radius=9&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" width="375"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgp06&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact&card_width=300&langs_count=9&custom_title=Minhas%20Linguagens&order=2" height="160" alt="languages graph"/>
 </div>  
 
