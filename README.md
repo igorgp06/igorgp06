@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=igorgp06&locale=pt-br&mode=weekly&theme=shades-of-purple&hide_border=true&border_radius=9&date_format=j%20M%5B%20Y%5D&order=3" height="135" alt="GitHub Streak"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorgp06&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=9&theme=shades-of-purple&hide_border=true&order=2&custom_title=Minhas%20Linguagens" height="160" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgp06&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact&card_width=300&langs_count=9&custom_title=Minhas%20Linguagens&order=2" height="160" alt="languages graph"  />
+</div>  
 
 ###
 
