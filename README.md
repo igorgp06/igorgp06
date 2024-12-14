@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=25&text=Olá,%20eu%20me%20chamo%20Igor&fontColor=e6e600%20&reversal=false&textBg=false&fontSize=30&fontAlignY=33&animation=fadeIn" max-width="1200px" width="1200px" align="center"/>
 
-<h1 align="center">A mais de 1 ano trabalhando como Desenvolvedor Web FullStack. print("Hello Word!") </h1>&nbsp;
+<h1 align="center">A mais de 1 ano trabalhando como Desenvolvedor Web FullStack. print("Hello World!") </h1>&nbsp;
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=igorgp06&theme=shades-of-purple&hide_border=true&border_radius=9&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" width="375"/>
@@ -40,8 +40,9 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="28">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="SpringBoot" height="28">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="28">
-<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask" height="28">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" height="28">
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" height="28">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" height="28">
 </div>
 
 ## Informações extras
