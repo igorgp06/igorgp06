@@ -11,17 +11,7 @@
 
 ## Informações relevantes
 
-### Soft Skills
-
-#### Sociais e comunicativas:
-
-##### - Comunicação, Atendimento ao Cliente, Inglês Fluente, Solução de Problemas, Confiabilidade, Criatividade, Adaptabilidade, Pontualidade e Detalhismo.
-
-#### Técnicas:
-
-##### - Desenvolvimento Web, Otimizações Web, Manutenção de Sistemas, Software para Internet, Web Design e Responsividade.
-
-### Hard Skills
+### Linguagens e FrameWorks 
 
 #### Front-End:
 
@@ -41,13 +31,19 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" height="28">
 </div>
 
-## Informações extras
+#### Bancos de Dados
+
+<div>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" height="28">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" height="28">
+</div>
+
+## Ferramentas
 
 #### Ferramentas para manipulação de códigos:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-20232A?logo=intellij-idea&logoColor=white&style=for-the-badge)
-![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 #### Ferramentas de Design:
@@ -61,11 +57,13 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/docker-21759B?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### Sistemas operacionais:
 
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)&nbsp;
+![WIN](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
+![KALI](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## Redes sociais:
 
