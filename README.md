@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=25&text=Olá,%20eu%20me%20chamo%20Igor&fontColor=e6e600%20&reversal=false&textBg=false&fontSize=30&fontAlignY=33&animation=fadeIn" max-width="1200px" width="1200px" align="center"/>
 
-<h1 align="center">A mais de 2 anos trabalhando como Desenvolvedor Web.<br> print("Hello World!") </h1>&nbsp;
+<h1 align="center">A mais de 3 anos trabalhando como Desenvolvedor de Sistemas!</h1>&nbsp;
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=igorgp06&theme=shades-of-purple&hide_border=true&border_radius=9&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" width="375"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgp06&theme=shades-of-purple&layout=compact&hide_border=true&show_icons=true&card_width=300&langs_count=19&custom_title=Minhas%20Linguagens&order=2" height="160" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorgp06&theme=shades-of-purple&layout=compact&hide_border=true&show_icons=true&card_width=300&langs_count=19&custom_title=Minhas%20Linguagens&order=2" height="160" alt="Linguagens mais usadas"/>
 </div>  
 
 ###
